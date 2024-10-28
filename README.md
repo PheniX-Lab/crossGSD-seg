@@ -22,6 +22,7 @@ To test the images in the folder, run the pre_mask.py
 
 # Citation
 If our code or models help your work, please cite our paper:  
+```
 @online{https://doi.org/10.1016/j.isprsjprs.2024.10.007,  
   title={Bridging real and simulated data for cross-spatial-resolution vegetation segmentation with application to rice crops},  
   author={Yangmingrui Gao, Linyuan Li, Marie Weiss, Wei Guo, Ming Shi, Hao Lu, Ruibo Jiang, Yanfeng Ding, Tejasri Nampally, P. Rajalakshmi, Frédéric Baret, Shouyang Liu},  
@@ -29,3 +30,4 @@ If our code or models help your work, please cite our paper:
   pages={133-150},  
   year={2024}  
 }
+```
