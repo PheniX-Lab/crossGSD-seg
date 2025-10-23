@@ -1,5 +1,7 @@
 # crossGSD-seg
 We developed a cross-spatial resolution semantic segmentation model for rice crops by integrating real and sim2real RGB images, which was based on the SegFormer and FADE module.  
+<img width="623" height="482" alt="cross-seg" src="https://github.com/user-attachments/assets/625e052e-816f-4273-915b-7f779d56cab7" />  
+
 This is a well-trained model that can be directly used, just configure the required virtual environment.  
 The link for the trained model:  
 https://drive.google.com/file/d/15VBJi9whdML-iOX0dafTnMR5FhSlLS_y/view?usp=drive_link  
